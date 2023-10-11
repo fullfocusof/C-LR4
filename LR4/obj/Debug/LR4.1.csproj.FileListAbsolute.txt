@@ -1,0 +1,10 @@
+E:\Projects\C#\LR4\LR4\bin\Debug\LR4.exe.config
+E:\Projects\C#\LR4\LR4\bin\Debug\LR4.exe
+E:\Projects\C#\LR4\LR4\bin\Debug\LR4.pdb
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.1.csproj.AssemblyReference.cache
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.ConverterForm.resources
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.1.csproj.GenerateResource.cache
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.1.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.exe
+E:\Projects\C#\LR4\LR4\obj\Debug\LR4.pdb

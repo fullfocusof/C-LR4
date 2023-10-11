@@ -1,0 +1,10 @@
+E:\Projects\C#\LR4\LR4.5\bin\Debug\LR4.5.exe.config
+E:\Projects\C#\LR4\LR4.5\bin\Debug\LR4.5.exe
+E:\Projects\C#\LR4\LR4.5\bin\Debug\LR4.5.pdb
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4.5.csproj.AssemblyReference.cache
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4._5.Properties.Resources.resources
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4._5.SquareEqForm.resources
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4.5.csproj.GenerateResource.cache
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4.5.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4.5.exe
+E:\Projects\C#\LR4\LR4.5\obj\Debug\LR4.5.pdb

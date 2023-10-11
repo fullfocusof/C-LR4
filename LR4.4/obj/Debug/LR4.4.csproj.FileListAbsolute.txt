@@ -1,0 +1,10 @@
+E:\Projects\C#\LR4\LR4.4\bin\Debug\LR4.4.exe.config
+E:\Projects\C#\LR4\LR4.4\bin\Debug\LR4.4.exe
+E:\Projects\C#\LR4\LR4.4\bin\Debug\LR4.4.pdb
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4.4.csproj.AssemblyReference.cache
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4._4.KeyboardTrainForm.resources
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4._4.Properties.Resources.resources
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4.4.csproj.GenerateResource.cache
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4.4.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4.4.exe
+E:\Projects\C#\LR4\LR4.4\obj\Debug\LR4.4.pdb

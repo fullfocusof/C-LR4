@@ -1,0 +1,10 @@
+E:\Projects\C#\LR4\LR4.8\bin\Debug\LR4.8.exe.config
+E:\Projects\C#\LR4\LR4.8\bin\Debug\LR4.8.exe
+E:\Projects\C#\LR4\LR4.8\bin\Debug\LR4.8.pdb
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4.8.csproj.AssemblyReference.cache
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4._8.EmployerQuestionForm.resources
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4._8.Properties.Resources.resources
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4.8.csproj.GenerateResource.cache
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4.8.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4.8.exe
+E:\Projects\C#\LR4\LR4.8\obj\Debug\LR4.8.pdb
