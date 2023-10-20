@@ -41,8 +41,7 @@ namespace LR4._4
             {   
                 start = DateTime.Now;                                  
                 CurrentIndex = Rand.Next(TargetString.Length);
-                g.DrawString(TargetString.Substring(CurrentIndex, 1),
-                MyFont, Brushes.Black, 160, 75);
+                g.DrawString(TargetString.Substring(CurrentIndex, 1), MyFont, Brushes.Black, 160, 75);
                 count = 1;
             }
             else if ((count > 0) && (e.KeyChar == TargetString[CurrentIndex]))
@@ -57,7 +56,7 @@ namespace LR4._4
                 {
                     g.Clear(BackColor);
                     CurrentIndex = Rand.Next(TargetString.Length);
-                    g.DrawString(TargetString[CurrentIndex].ToString(), MyFont, Brushes.Black, 160, 75);
+                    g.DrawString(TargetString[CurrentIndex].ToString(), MyFont, Brushes.Black, 300, 200);
                     count++;
                 }
             }
